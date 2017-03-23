@@ -24,23 +24,19 @@ demonstrations) to show the layout of the networks of our class.
 ***
 本项目采用Java开发，画图采用的是JDK自带的工具包，具体细节可参考源码，一些截图如下：
 
-##MainFrame
----
+## MainFrame
 
 ![](/images/MainFram.PNG)
 
-##Properties
----
+## Properties
 
 ![](/images/Properties.PNG)
 
-##IntentionalAttackTestAll
----
+## IntentionalAttackTestAll
 
 ![](/images/IntentionalAttackTestAll.PNG)
 
-##RandomAttactTestAfter
----
+## RandomAttactTestAfter
 
 ![](/images/RandomAttactTestAfter.PNG)
 
