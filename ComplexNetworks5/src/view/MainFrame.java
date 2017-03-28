@@ -66,7 +66,7 @@ public class MainFrame extends JFrame{
 		
 		this.setLocation(30, 30);
 		this.setSize(1800,900);
-		this.setTitle("ComplexNetwork Project2016 ICES_16S151521_²Ì´Ï»³");
+		this.setTitle("ComplexNetwork Project2016");
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setResizable(false);
 		this.setVisible(true);
