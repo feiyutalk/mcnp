@@ -26,7 +26,7 @@ demonstrations) to show the layout of the networks of our class.
 
 ## MainFrame
 
-![](/images/MainFram.PNG)
+![](/images/MainFrame1.PNG)
 
 ## Properties
 
@@ -39,4 +39,3 @@ demonstrations) to show the layout of the networks of our class.
 ## RandomAttactTestAfter
 
 ![](/images/RandomAttactTestAfter.PNG)
-
