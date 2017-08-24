@@ -19,7 +19,7 @@ observations;
 (4) To have extra bonus, you can develop a small system (including friendly interfaces, or graphic
 demonstrations) to show the layout of the networks of our class.
 
-To see full project requirement : [project requirment]()
+To see full project requirement : [Project Requirment[pdf]](https://github.com/neuclil/modeling-of-complex-networks/blob/master/docs/projects2016.pdf)
 
 ## Features
 
