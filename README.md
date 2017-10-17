@@ -1,9 +1,10 @@
 # Modeling Of Complex Networks Project 
 
-[![CircleCI](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)]() [![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]() [![Packagist](https://img.shields.io/badge/language-Java-green.svg)]()
+[![CircleCI](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)]() [![Packagist](https://img.shields.io/badge/language-Java-green.svg)]()
 ## Description
-We have done an investigation on the connections in our class, and three corresponding social
-networks under different conditions (i.e., knowing someone’s name, knowing someone’s hometown,
+
+We have done an investigation on the connections in our class, and three corresponding social networks under different conditions (i.e., knowing someone’s name, knowing someone’s hometown,
+
 and knowing someone’s dialect) are formulated. Please download the data from our assigned FTP.
 
 (1) Perform some computer simulations (by using whatever computer software or programming language)
@@ -32,6 +33,18 @@ In this project, you need to known the basic knowledge about complex networks, s
 
 ## Property
 
+|             Attribute              | finished |
+| :--------------------------------: | :------: |
+|       clustering coefficient       |   yes    |
+|              coreness              |   yes    |
+|               degree               |   yes    |
+|           shortest path            |   yes    |
+|       attention attack test        |   yes    |
+|         random attack test         |   yes    |
+| node number/edge number statistics |   yes    |
+|    size of the largest subgraph    |   yes    |
+|        average path length         |   yes    |
+
 ## Display
 
 ![](./images/MainFrame1.PNG)
@@ -42,4 +55,8 @@ In this project, you need to known the basic knowledge about complex networks, s
 
 ![](./images/IntentionalAttackTestAll.PNG)
 
+## Contact 
 
+Any question please contact me.
+
+email : neuclil8107@gmail.com
