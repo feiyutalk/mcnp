@@ -59,4 +59,4 @@ In this project, you need to known the basic knowledge about complex networks, s
 
 Any question please contact me.
 
-email : neuclil8107@gmail.com
+Email : neuclil8107@gmail.com
