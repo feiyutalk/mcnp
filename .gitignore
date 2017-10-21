@@ -14,13 +14,11 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-bin/
 .classpath
 .project
 .db
 logger/
 
 # Exclude maven wrapper
-!/.mvn/wrapper/maven-wrapper.jar
 
 # End of https://www.gitignore.io/api/maven
