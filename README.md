@@ -22,7 +22,7 @@ demonstrations) to show the layout of the networks of our class.
 
 To see full project requirement : [Project Requirment[pdf]](https://github.com/neuclil/modeling-of-complex-networks/blob/master/docs/projects2016.pdf)
 
-# Run
+## Run
 
 - install JDK and add it's path to environment
 
