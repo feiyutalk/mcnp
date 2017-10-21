@@ -22,6 +22,18 @@ demonstrations) to show the layout of the networks of our class.
 
 To see full project requirement : [Project Requirment[pdf]](https://github.com/neuclil/modeling-of-complex-networks/blob/master/docs/projects2016.pdf)
 
+# Run
+
+- install JDK and add it's path to environment
+
+- cd /bin
+
+- run command:
+
+  ```shell
+  java -jar neuclil-networks.jar
+  ```
+
 ## Features
 
 - A Concise UI Interface.
