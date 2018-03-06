@@ -69,6 +69,6 @@ In this project, you need to known the basic knowledge about complex networks, s
 
 ## Contact 
 
-Any question please contact me.
+Any questions please contact me.
 
-Email : neuclil8107@gmail.com
+Email : caiconghuai@gmail.com
