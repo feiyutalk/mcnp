@@ -31,7 +31,7 @@ To see full project requirement : [Project Requirment[pdf]](https://github.com/n
 - run command:
 
   ```shell
-  java -jar neuclil-networks.jar
+  java -jar caiconghuai-networks.jar
   ```
 
 ## Features
