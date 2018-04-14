@@ -59,13 +59,13 @@ In this project, you need to known the basic knowledge about complex networks, s
 
 ## Display
 
-![](./images/MainFrame1.PNG)
+![](http://p6sh0jwf6.bkt.clouddn.com/2018-04-14-032347.jpg)
 
-![](./images/Properties.PNG)
+![](http://p6sh0jwf6.bkt.clouddn.com/2018-04-14-032350.jpg)
 
-![](./images/RandomAttactTestAfter.PNG)
+![](http://p6sh0jwf6.bkt.clouddn.com/2018-04-14-032352.jpg)
 
-![](./images/IntentionalAttackTestAll.PNG)
+![](http://p6sh0jwf6.bkt.clouddn.com/2018-04-14-032354.jpg)
 
 ## Contact 
 
